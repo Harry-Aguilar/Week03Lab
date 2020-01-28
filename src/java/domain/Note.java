@@ -4,11 +4,12 @@
  * and open the template in the editor.
  */
 package domain;
+import java.io.Serializable;
 
 /**
  *
  * @author lpeters
  */
-public class Note {
+public class Note implements Serializable {
     
 }
