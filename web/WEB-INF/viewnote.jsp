@@ -14,5 +14,6 @@
     <body>
         <h1>Simple Note Keeper</h1>
         <h2>View Note</h2>
+        <a href="/Week03Lab_SimpleNoteKeeper/note?edit">Edit</a>
     </body>
 </html>
